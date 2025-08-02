@@ -34,6 +34,7 @@ This is a simple product showcase webpage created using **HTML**, **CSS**, and *
 3. **Modify the HTML, CSS, or JavaScript** as needed to customize the look and functionality.
 
 ## Example View
-![Uploading screencapture-file-C-Naufal457-APPLE-ID-index-html-2025-08-02-16_38_32.png…]()
+
+<img width="1920" height="5791" alt="screencapture-file-C-Naufal457-APPLE-ID-index-html-2025-08-02-16_38_32" src="https://github.com/user-attachments/assets/eeaa93be-2788-421f-81ce-958e66aac98e" />
 
 This page features several **Apple products** with large images and a **"Learn More"** button that links to additional information about each product. At the bottom of the page, there are promotional links for **Apple TV+** content.
